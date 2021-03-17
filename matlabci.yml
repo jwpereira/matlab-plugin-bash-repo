@@ -1,0 +1,3 @@
+steps:
+  - name: Run all tests
+    command: runtests
