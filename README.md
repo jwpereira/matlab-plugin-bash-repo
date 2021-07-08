@@ -14,4 +14,4 @@ If you are using Circle CI, make .circleci/config.yml
 
 If you are using Travis, make .travis.yml
 
-Hello! Oooh! Awesome!
+Hello! Oooh! Awesome! Fancy!
